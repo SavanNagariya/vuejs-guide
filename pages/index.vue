@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <UsersFetch />
 </template>
 
 <script>
